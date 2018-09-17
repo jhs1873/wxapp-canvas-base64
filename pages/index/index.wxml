@@ -1,0 +1,4 @@
+<!-- index.wxml -->
+<button class="upload" type="default" bindtap="upload">上传头像</button>
+
+<canvas style="width: 300px; height: 200px;" canvas-id="firstCanvas"></canvas>
